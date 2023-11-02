@@ -3,7 +3,7 @@
 /**
  * binary_tree_preorder - pre-order traversal function
  * @tree: pointer to tree
- * @ func: pointer to func
+ * @func: pointer to func
  *
  * Return: nothing
  */

@@ -3,7 +3,7 @@
 /**
  * binary_tree_postorder - post-order traversal function
  * @tree: pointer to tree
- * @ func: pointer to func
+ * @func: pointer to func
  *
  * Return: nothing
  */
